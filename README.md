@@ -27,6 +27,3 @@ It was developed as part of a data portfolio to demonstrate data preparation, vi
   - Re-evaluate pricing & strategy for underperformers (e.g., VTT)  
   - Expand deeper into high-performing regions (USA & Canada)  
 
----
-
-# PowerBI-SQL-Project
