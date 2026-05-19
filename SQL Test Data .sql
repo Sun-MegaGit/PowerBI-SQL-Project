@@ -1,8 +1,3 @@
--- 6. Store each result in temporary tables
-
--- Question 6: Store the results of the previous queries into temporary tables.
--- Temporary tables are session-specific and automatically dropped when the session ends.
-
 -- Temporary Table for Question 1 results
 DROP TABLE IF EXISTS #CustomersNonStandardPhone; -- Drop the table if it already exists to avoid errors on re-execution
 SELECT COUNT(*) AS InvalidPhoneCount
